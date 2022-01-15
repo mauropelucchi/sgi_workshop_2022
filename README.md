@@ -1,14 +1,18 @@
-# SGI Workshop 2020
+# SGI Workshop 20202
 
-Workshop on Machine Learning in production for Statistics and Information Management course
+Workshop on Machine Learning in production for Statistics and Information Management course (2022)
 
 
-In this repository you can find the materials from the Workshop 2020 @ Data Mining course (STATISTICA E GESTIONE DELLE INFORMAZIONI - University of Milano Bicocca)
+In this repository you can find the materials from the Workshop 202 @ Data Mining course (STATISTICA E GESTIONE DELLE INFORMAZIONI - University of Milano Bicocca)
 
 The workshop consists of two topics:
 
-- [Cloud Platform for Data Science](https://github.com/mauropelucchi/sgi_workshop_2020/tree/master/cloud_data_science): in this section we present Google Colaboratory and Databricks
+- Cloud Platform for Data Science: in this section we present Google Colaboratory and Databricks
 - Big Data in a real project
+
+In the first topic, the workshop presents a notebook (on Google Colab) about the use of Big Data Tools (Athena, PySpark, ...) to compute a similarity measure between occupations
+with a dataset composed by 400M job postings (Thanks Simone Perego!!!). The notebook uses the RCA metric and different distance and similarity metrics.
+
 
 In the second topic, the workshop presents a notebook (on Databricks) about the training of a basic Machine Learning model, that covers:
 
